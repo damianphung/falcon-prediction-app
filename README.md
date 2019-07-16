@@ -3,6 +3,8 @@
 Simple example that uses [Falcon](https://falconframework.org/) to create a deep learning RESTful prediction service (simple convnet trained on the MNIST dataset). [Locust](https://locust.io/) is used for load testing.
 [Gunicorn](http://gunicorn.org/) as WSGI HTTP Server and [nginx](https://www.nginx.com/) as HTTP proxy server.
 
+See https://medium.com/idealo-tech-blog/falcon-vs-flask-which-one-to-pick-to-create-a-scalable-deep-learning-rest-api-adef647ebdec
+
 ## Getting Started
 
 ### Run prediction service
